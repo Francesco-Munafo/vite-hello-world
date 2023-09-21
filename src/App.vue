@@ -4,8 +4,7 @@
 import titolo from './components/AppTitle.vue'
 //Importo il jumbo
 import jumbo from './components/AppHero.vue'
-//Importo la libreria di bootstrap
-import 'bootstrap/dist/css/bootstrap.min.css'
+
 
 export default{
 
@@ -31,5 +30,4 @@ export default{
 </template>
 
 <style>
-
 </style>
